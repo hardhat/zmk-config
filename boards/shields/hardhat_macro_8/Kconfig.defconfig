@@ -1,0 +1,6 @@
+if SHIELD_HARDHAT_MACRO_8
+
+config ZMK_KEYBOARD_NAME
+    default "hardhat_macro_8"
+
+endif # SHIELD_HARDHAT_MACRO_8
